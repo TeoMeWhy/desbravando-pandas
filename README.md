@@ -8,6 +8,14 @@ O objetivo primário deste material é introduzir a biblioteca de manipulação 
 
 Todo conteúdo será feito ao vivo e as gravações estarão disponíveis abertamente na internet, no primeiro momento na [twitch.tv/teomewhy](twitch.tv/teomewhy). As lives serão entre os dias 07/08 e 11/08 sempre às 19hrs com horário de término próximo às 22hrs.
 
+Para receber o certificado você deve realizar os seguintes passos:
+
+1. Inscrever-se no evento: [eventos.institutoasw.org](https://eventos.institutoasw.org/)
+2. No chat da live digitar `!email seu@email.com` , substituindo pelo mesmo emailq ue foi utilizado na inscrição do evento
+3. Assinar a lista de presença todos os dias durante a live. Basta digitar !presente no chat durante as transmissões.
+
+Caso tenha +75% de presença e os dados estiverem corretos, em algumas semanas pós evento você receberá seu certificado por email.
+
 Segue a nossa ementa do curso:
 
 1. Principais objetos do Pandas: Series e Dataframes
