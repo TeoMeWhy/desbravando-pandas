@@ -44,6 +44,8 @@ df_produto.groupby(by=['descItemPrimeiro'])[['vlPreco', 'vlPreciInflaco']].descr
 import random
 
 def fodase(x):
-    return random.choice(x)
+    return random.choice(x.values)
 
-df_produto.groupby(by=['descItemPrimeiro'])[['vlPreco', 'vlPreciInflaco']].agg(['min', 'mean', 'max'])
+(df_produto.groupby(by=['descItemPrimeiro'])[['vlPreco', 'vlPreciInflaco']]
+           .agg(['min', 'mean', 'max', 'median', fodase]))
+
