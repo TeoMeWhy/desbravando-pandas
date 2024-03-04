@@ -13,13 +13,13 @@ O objetivo primário deste material é introduzir a biblioteca de manipulação 
 Todo conteúdo será feito ao vivo e as gravações estarão disponíveis abertamente no [YouTube/@teomewhy](https://www.youtube.com/@teomewhy) e [twitch.tv/teomewhy](twitch.tv/teomewhy). As lives serão entre os dias 11/03 e 15/03 sempre às 19:30 com horário de término próximo às 22hrs.
 
 ### Pré requisitos:
-    - Conhecimento básico em Python (sintaxe)
-        - Curso de [Introdução à Programação com Python](https://www.youtube.com/playlist?list=PLvlkVRRKOYFRXdquucikNbwYeFzzzYIGb)
+- Conhecimento básico em Python (sintaxe)
+    - Curso de [Introdução à Programação com Python](https://www.youtube.com/playlist?list=PLvlkVRRKOYFRXdquucikNbwYeFzzzYIGb)
 
-    - Instalação do Anaconda (ou pandas).
-        - [Confira aqui como realizar a instalação](https://youtu.be/asUCVFBUyfY)
+- Instalação do Anaconda (ou pandas).
+    - [Confira aqui como realizar a instalação](https://youtu.be/asUCVFBUyfY)
 
-    - Vontade de aprender
+- Vontade de aprender
 
 
 ### Ementa:
