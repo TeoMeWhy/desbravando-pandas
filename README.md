@@ -4,6 +4,8 @@ Curso de Pandas criado em conjunto com o Instituo Aaron Swartz.
 
 Adicione na sua agenda, [clicando aqui](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NW4wNjV0bXNocjIyMGNhNzI1YjNwbjVpb2VfMjAyNDAzMTFUMjIzMDAwWiB0ZW9AdGVvbWV3aHkub3Jn&tmsrc=teo%40teomewhy.org&scp=ALL).
 
+Aproveite também para baixar os [dados aqui](https://drive.google.com/drive/folders/1n-_rS4g3XYkhB7eHBog1Wr0BI10VTJ-K?usp=sharing).
+
 ## Sobre o curso
 
 O objetivo primário deste material é introduzir a biblioteca de manipulação e análise de dados do Python, Pandas.
